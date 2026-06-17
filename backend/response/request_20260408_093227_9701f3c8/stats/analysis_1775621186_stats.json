@@ -1,0 +1,17 @@
+{
+    "question": "Perform a full analysis of the pizza sales. Calculate total revenue, total orders, and average order value. Identify the top 5 best-selling pizzas. Show the hourly and daily trend of orders using subplots. Finally, analyze the sales distribution by pizza category and size, and check for price outliers using IQR.",
+    "total_records": 48620,
+    "total_revenue": 817860.05,
+    "total_orders": 21350,
+    "avg_order_value": 38.30726229508196,
+    "mean_unit_price": 16.494132044426163,
+    "median_unit_price": 16.5,
+    "std_total_price": 4.4373975811810835,
+    "min_total_price": 9.75,
+    "max_total_price": 83.0,
+    "outlier_count": 613,
+    "skewness": 1.7328564007150937,
+    "kurtosis": 8.89508813969252,
+    "top_category": "Classic",
+    "spearman_corr_qty_price": 0.009722748837510063
+}

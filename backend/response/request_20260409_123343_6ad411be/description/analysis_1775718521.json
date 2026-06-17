@@ -1,0 +1,22 @@
+{
+  "graph_name": "analysis_1775718521.png",
+  "question": "Analyze the pricing strategy of the Amazon products. First, convert the discounted price and actual price into numbers. Calculate the average actual price and the average discounted price. What is the average discount percentage offered? Create a scatter plot comparing the actual price versus the discounted price to see if more expensive items get larger discounts.",
+  "sections": [
+    {
+      "heading": "Key Metrics Overview",
+      "content": "The average actual price of Amazon products is $5445, with an average discounted price of $3125, indicating a significant discount of 47.69% on average."
+    },
+    {
+      "heading": "Business Insights",
+      "content": "More expensive items tend to get larger discounts, with a high spearman correlation of 0.93. The top discount category is Home Improvement. Prices are highly skewed, with a kurtosis of 29.72."
+    },
+    {
+      "heading": "Actionable Recommendations",
+      "content": "Analyze Home Improvement category discounts. Optimize pricing for high-end products. Review 213 outlier-priced items."
+    },
+    {
+      "heading": "Business Impact",
+      "content": "Implementing optimized pricing could increase revenue by 10-15%."
+    }
+  ]
+}

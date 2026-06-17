@@ -1,0 +1,16 @@
+{
+    "question": "\"What is the total revenue generated, the total number of pizzas sold, and the total number of orders placed?",
+    "total_revenue": 817860.05,
+    "total_pizzas_sold": 49574,
+    "total_orders": 21350,
+    "mean_order_value": 38.30726229508196,
+    "median_order_value": 32.5,
+    "std_revenue": 4.4373975811810835,
+    "min_price": 9.75,
+    "max_price": 83.0,
+    "outlier_count": 613,
+    "skewness": 1.7328564007150937,
+    "kurtosis": 8.89508813969252,
+    "top_category": "Classic",
+    "spearman_corr_qty_price": 0.23444328544482382
+}

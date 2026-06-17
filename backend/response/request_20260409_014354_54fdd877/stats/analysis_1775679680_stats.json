@@ -1,0 +1,17 @@
+{
+    "question": "Analyze the overall financial performance of the pizza business. Calculate the total revenue, total number of orders, and the average order value (AOV). Show the distribution of order totals and detect any extreme price outliers using the IQR method.",
+    "total_records": 19587,
+    "total_revenue": 329329.8,
+    "total_orders": 8577,
+    "average_order_value": 38.39685204616999,
+    "mean_price": 16.81369275539899,
+    "median_price": 16.5,
+    "std_price": 4.399457995560639,
+    "min_price": 9.75,
+    "max_price": 62.25,
+    "outlier_count": 238,
+    "skewness": 1.6675387287893761,
+    "kurtosis": 8.074707502435281,
+    "top_category": "Classic",
+    "correlation_unit_price_qty": 0.009478691067466306
+}

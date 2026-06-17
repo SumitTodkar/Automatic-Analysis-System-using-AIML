@@ -1,0 +1,30 @@
+{
+  "graph_name": "analysis_1775885665.png",
+  "question": "Amazon Data Analysis",
+  "sections": [
+    {
+      "heading": "Data Overview",
+      "content": "The dataset was successfully processed and charts were generated."
+    },
+    {
+      "heading": "Key Metrics Dashboard",
+      "content": "Please refer to the statistical summary table below for exact KPI values."
+    },
+    {
+      "heading": "Core Business Insights",
+      "content": "Visual trends regarding pricing and categories are accurately represented in the charts."
+    },
+    {
+      "heading": "Anomalies & Risks",
+      "content": "Check the IQR Outlier Count in the stats table to identify products with extreme pricing."
+    },
+    {
+      "heading": "Actionable Recommendations",
+      "content": "Review the distribution of actual vs discounted prices to optimize profit margins."
+    },
+    {
+      "heading": "Estimated Business Impact",
+      "content": "Properly aligning category discounts can significantly improve overall revenue."
+    }
+  ]
+}

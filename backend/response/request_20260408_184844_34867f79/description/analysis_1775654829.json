@@ -1,0 +1,10 @@
+{
+  "graph_name": "analysis_1775654829.png",
+  "question": "What is the average amount spent per order? Are there any outliers in order totals using the IQR method?",
+  "sections": [
+    {
+      "heading": "Analysis Overview",
+      "content": "{\"sections\": [\n  {\"heading\": \"Analysis Overview\", \"content\": \"The average amount spent per order is $38.31, indicating that customers typically spend around this amount when making a purchase. With a total of 21,350 orders, this translates to a significant revenue stream for the business. The presence of outliers, with 588 orders exceeding the upper IQR threshold, suggests that some customers are willing to spend substantially more, with the maximum order value reaching $444.20. This highlights an opportunity to encourage more customers to increase their spending.\"},\n  {\"heading\": \"Statistical Evidence\", \"content\": \"The mean order value of $38.31 is higher than the median order value of $32.50, indicating a positively skewed distribution. The standard deviation of $30.65 is relatively high, suggesting a wide range of order values. The minimum order value is $9.75, while the maximum is $444.20, highlighting the significant variability in order totals. The skewness of 3.47 and kurtosis o"
+    }
+  ]
+}

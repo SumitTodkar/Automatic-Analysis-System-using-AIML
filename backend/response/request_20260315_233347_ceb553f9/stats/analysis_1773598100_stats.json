@@ -1,0 +1,10 @@
+{
+    "question": "What is the average discount percentage by category?",
+    "total": 69868.0,
+    "mean": 47.69146757679181,
+    "median": 50.0,
+    "std": 21.635905180856668,
+    "min": 0.0,
+    "max": 94.0,
+    "count": 1465
+}

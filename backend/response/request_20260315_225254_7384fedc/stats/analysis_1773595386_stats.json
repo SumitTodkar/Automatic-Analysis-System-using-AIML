@@ -1,0 +1,10 @@
+{
+    "question": "Give an overall analysis report.",
+    "total": 4578580.43,
+    "mean": 3125.3108737201364,
+    "median": 799.0,
+    "std": 6944.304394400705,
+    "min": 39.0,
+    "max": 77990.0,
+    "count": 1465
+}

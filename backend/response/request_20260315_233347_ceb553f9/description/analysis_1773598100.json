@@ -1,0 +1,18 @@
+{
+  "graph_name": "analysis_1773598100.png",
+  "question": "What is the average discount percentage by category?",
+  "sections": [
+    {
+      "heading": "Analysis Overview",
+      "content": "The analysis reveals the average discount percentage across categories, providing insights into pricing strategies and consumer incentives."
+    },
+    {
+      "heading": "Statistical Evidence",
+      "content": "Key statistics include a mean discount of 47.69%, median of 50%, and standard deviation of 21.64%. The minimum discount is 0% and the maximum is 94%. With a total of 1465 data points, these statistics suggest a wide range of discounting practices across categories."
+    },
+    {
+      "heading": "Conclusions and Recommendations",
+      "content": "The data indicates that, on average, discounts tend to be around 47-50% across categories. The high standard deviation suggests significant variability in discount percentages, indicating some categories may offer deeper discounts than others. Businesses may consider analyzing category-specific discount strategies to optimize pricing and promotions."
+    }
+  ]
+}

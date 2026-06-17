@@ -1,0 +1,10 @@
+{
+    "question": "What are the top 10 most reviewed products?",
+    "total": 26766377.0,
+    "mean": 18270.564505119455,
+    "median": 5178.0,
+    "std": 42729.9953152285,
+    "min": 0.0,
+    "max": 426973.0,
+    "count": 1465
+}

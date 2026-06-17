@@ -1,0 +1,22 @@
+{
+  "graph_name": "analysis_1775716615.png",
+  "question": "Perform a comprehensive business analysis of the pizza sales. First, calculate key metrics including total revenue, total orders, and average order value. Second, analyze temporal trends by showing the busiest days of the week and peak hours of the day. Third, break down revenue by pizza category and size. Finally, identify the top 5 best-selling pizzas and check for any extreme order-value outliers using IQR. Use multi-panel subplots to visualize these trends clearly.",
+  "sections": [
+    {
+      "heading": "Key Metrics Overview",
+      "content": "The total revenue is $329,329.80 with 8,577 orders, averaging $38.40 per order."
+    },
+    {
+      "heading": "Business Insights",
+      "content": "Fridays are busiest with  peak hours at 12pm. Classic pizzas are top-selling. 238 orders are extreme outliers."
+    },
+    {
+      "heading": "Actionable Recommendations",
+      "content": "Optimize staff on Fridays at 12pm. Promote Classic pizzas more. Review 238 outlier orders for potential errors."
+    },
+    {
+      "heading": "Business Impact",
+      "content": "Increasing efficiency on Fridays could boost revenue by $10,000 per month."
+    }
+  ]
+}

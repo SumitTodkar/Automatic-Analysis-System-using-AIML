@@ -1,0 +1,10 @@
+{
+    "question": "What is the distribution of product ratings?",
+    "total": 5997.4,
+    "mean": 4.096584699453552,
+    "median": 4.1,
+    "std": 0.2916740794521227,
+    "min": 2.0,
+    "max": 5.0,
+    "count": 1464
+}

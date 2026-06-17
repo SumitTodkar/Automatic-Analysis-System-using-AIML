@@ -1,0 +1,10 @@
+{
+  "graph_name": "analysis_1775655247.png",
+  "question": "What are the top 5 and bottom 5 pizzas based on total revenue and quantity sold?",
+  "sections": [
+    {
+      "heading": "Analysis Overview",
+      "content": "{\"sections\": [{\"heading\": \"Analysis Overview\", \"content\": \"The total revenue for pizzas averages $16.82, with a median of $16.50 and a standard deviation of $4.44, indicating a relatively stable distribution of revenue across pizzas. With a total of 48,620 records, this data provides a comprehensive view of pizza sales. The presence of 613 outliers suggests that there are some extreme values that may warrant further investigation. Overall, this data provides valuable insights for the business to optimize its pizza offerings and pricing strategy.\"}, \n{\"heading\": \"Statistical Evidence\", \"content\": \"The dataset consists of 48,620 records, with a mean revenue of $16.82 and a median revenue of $16.50, indicating a slightly skewed distribution. The standard deviation of $4.44 is relatively high, suggesting significant variability in revenue across pizzas. The minimum revenue is $9.75 and the maximum revenue is $83.00, highlighting a wide range of revenue values. The skewness of 1.73 and kurt"
+    }
+  ]
+}

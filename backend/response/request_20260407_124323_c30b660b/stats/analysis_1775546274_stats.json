@@ -1,0 +1,14 @@
+{
+    "question": "What is the average amount spent per order? Are there any outliers in order totals using the IQR method?",
+    "total_orders": 21350,
+    "avg_spent_per_order": 38.30726229508196,
+    "median_spent_per_order": 32.5,
+    "std_spent_per_order": 30.648196644143876,
+    "min_order_total": 9.75,
+    "max_order_total": 444.2,
+    "outlier_count_iqr": 588,
+    "skewness_order_totals": 3.4681293654185823,
+    "kurtosis_order_totals": 18.648663278540102,
+    "top_category_by_revenue": "Classic",
+    "quantity_price_correlation": 0.23444328544482382
+}

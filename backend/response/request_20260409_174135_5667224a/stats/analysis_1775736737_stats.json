@@ -1,0 +1,16 @@
+{
+    "question": "Perform a comprehensive business and pricing analysis of the Amazon catalog. First, clean the 'actual_price', 'discounted_price', and 'rating_count' columns by removing the '\u20b9' symbols and commas, and convert them to numeric. Extract the main 'Parent Category' by splitting the nested category string. Second, calculate the total number of products, the overall average rating, and the average discount percentage. Third, create a correlation matrix to see if there is a relationship between a product's price, its discount percentage, and its rating. Finally, identify the top 5 Parent Categories by volume and detect any abnormally expensive products using the IQR outlier method on the actual price. Use multi-panel subplots to visualize these trends clearly.",
+    "total_records": 1462,
+    "avg_rating": 4.096716826265389,
+    "median_rating": 4.1,
+    "avg_actual_price": 5453.087742818057,
+    "avg_discount_pct": 47.672366621067034,
+    "max_price": 139900.0,
+    "min_price": 39.0,
+    "outlier_count_price": 213,
+    "price_skewness": 4.5549966987842705,
+    "price_kurtosis": 29.660874460640514,
+    "top_category_volume": "Electronics",
+    "price_rating_corr": 0.03355359587949849,
+    "discount_rating_corr": -0.1461937059704163
+}
