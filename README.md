@@ -113,8 +113,8 @@ npm run dev
 
 ## Author
 
-**Sumit Todkar**
-**Ashutosh Kumar Singh**
+**-Sumit Todkar**
+**-Ashutosh Kumar Singh**
 
 GitHub: https://github.com/SumitTodkar
 
