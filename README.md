@@ -61,7 +61,6 @@ Automatic-Analysis-System-using-AIML/
 │   └── package.json
 │
 ├── requirements.txt
-├── LICENSE
 └── README.md
 ```
 
