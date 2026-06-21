@@ -1,8 +1,0 @@
-{
-    "question": "What are the top 5 and bottom 5 pizzas based on total revenue and quantity sold?",
-    "total_records": 48007,
-    "mean_revenue_per_line": 16.543066636115565,
-    "top_revenue_pizza": "The Thai Chicken Pizza",
-    "bottom_revenue_pizza": "The Brie Carre Pizza",
-    "spearman_correlation_qty_rev": 0.8739002932551319
-}
