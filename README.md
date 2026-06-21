@@ -114,7 +114,7 @@ npm run dev
 ## Author
 
 Sumit Todkar,
- Ashutosh Kumar Singh**
+ Ashutosh Kumar Singh
 
 GitHub: https://github.com/SumitTodkar
 
